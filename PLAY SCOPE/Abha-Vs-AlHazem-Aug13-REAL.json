@@ -1,0 +1,185 @@
+{
+  "match": "Abha vs Al Hazem",
+  "date": "2026-08-13",
+  "result": "1-2",
+  "stadium": "Prince Sultan bin Abdulaziz Sports City Stadium",
+  "stats": {
+    "abha_shots": 10,
+    "abha_on_target": 6,
+    "abha_xg": 0.42,
+    "hazem_shots": 8,
+    "hazem_on_target": 3,
+    "hazem_xg": 1.22,
+    "possession": "63% - 37%"
+  },
+  "goals": [
+    {
+      "minute": 3,
+      "player": "Abdulaziz Al-Dwehe",
+      "team": "Al Hazem",
+      "xg": 0.35,
+      "xgOT": 0.91
+    },
+    {
+      "minute": 40,
+      "player": "Ahmed Al-Shamrani",
+      "team": "Al Hazem",
+      "xg": 0.28
+    },
+    {
+      "minute": 63,
+      "player": "Mohammed Al-Dosari",
+      "team": "Abha",
+      "xg": 0.01
+    }
+  ],
+  "shotmap": [
+    {
+      "x": 92,
+      "y": 48,
+      "playerTeam": "away",
+      "player": "Al-Dwehe",
+      "xg": 0.35,
+      "result": "Goal",
+      "minute": 3
+    },
+    {
+      "x": 88,
+      "y": 45,
+      "playerTeam": "away",
+      "player": "Al-Shamrani",
+      "xg": 0.28,
+      "result": "Goal",
+      "minute": 40
+    },
+    {
+      "x": 78,
+      "y": 50,
+      "playerTeam": "away",
+      "player": "Al Hazem",
+      "xg": 0.08,
+      "result": "Miss"
+    },
+    {
+      "x": 85,
+      "y": 60,
+      "playerTeam": "away",
+      "player": "Al Hazem",
+      "xg": 0.05,
+      "result": "Blocked"
+    },
+    {
+      "x": 91,
+      "y": 38,
+      "playerTeam": "away",
+      "player": "Al Hazem",
+      "xg": 0.12,
+      "result": "OnTarget"
+    },
+    {
+      "x": 75,
+      "y": 42,
+      "playerTeam": "away",
+      "player": "Al Hazem",
+      "xg": 0.15,
+      "result": "Miss"
+    },
+    {
+      "x": 82,
+      "y": 55,
+      "playerTeam": "away",
+      "player": "Al Hazem",
+      "xg": 0.1,
+      "result": "Miss"
+    },
+    {
+      "x": 89,
+      "y": 52,
+      "playerTeam": "away",
+      "player": "Al Hazem",
+      "xg": 0.09,
+      "result": "Miss"
+    },
+    {
+      "x": 94,
+      "y": 40,
+      "playerTeam": "home",
+      "player": "Al-Dosari",
+      "xg": 0.01,
+      "result": "Goal",
+      "minute": 63
+    },
+    {
+      "x": 90,
+      "y": 45,
+      "playerTeam": "home",
+      "player": "Abha",
+      "xg": 0.06,
+      "result": "OnTarget"
+    },
+    {
+      "x": 88,
+      "y": 50,
+      "playerTeam": "home",
+      "player": "Abha",
+      "xg": 0.05,
+      "result": "OnTarget"
+    },
+    {
+      "x": 86,
+      "y": 42,
+      "playerTeam": "home",
+      "player": "Abha",
+      "xg": 0.04,
+      "result": "OnTarget"
+    },
+    {
+      "x": 84,
+      "y": 55,
+      "playerTeam": "home",
+      "player": "Abha",
+      "xg": 0.07,
+      "result": "OnTarget"
+    },
+    {
+      "x": 79,
+      "y": 48,
+      "playerTeam": "home",
+      "player": "Abha",
+      "xg": 0.03,
+      "result": "OnTarget"
+    },
+    {
+      "x": 76,
+      "y": 38,
+      "playerTeam": "home",
+      "player": "Abha",
+      "xg": 0.04,
+      "result": "Miss"
+    },
+    {
+      "x": 81,
+      "y": 60,
+      "playerTeam": "home",
+      "player": "Abha",
+      "xg": 0.05,
+      "result": "Blocked"
+    },
+    {
+      "x": 87,
+      "y": 46,
+      "playerTeam": "home",
+      "player": "Abha",
+      "xg": 0.04,
+      "result": "Miss"
+    },
+    {
+      "x": 83,
+      "y": 44,
+      "playerTeam": "home",
+      "player": "Abha",
+      "xg": 0.03,
+      "result": "Blocked"
+    }
+  ]
+}
